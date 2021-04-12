@@ -69,7 +69,7 @@ const NewHighscore = ({ addHighscore }) => {
           onChange={(e) => setScore(e.target.value)}
         ></input>
         <br />
-        <button class="sendBtn" type="submit">
+        <button className="sendBtn" type="submit">
           Send
         </button>
       </form>

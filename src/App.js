@@ -5,7 +5,6 @@ import {
   Switch,
   Route,
   Link,
-  useParams,
 } from "react-router-dom";
 import NewHighscore from "./components/registerHighscore/registerHighscore";
 import GameDetails from "./components/gameDetails/gameDetails";
